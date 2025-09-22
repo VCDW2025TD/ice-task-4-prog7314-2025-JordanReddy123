@@ -1,0 +1,2 @@
+Place your Firebase google-services.json here:
+Android/app/google-services.json

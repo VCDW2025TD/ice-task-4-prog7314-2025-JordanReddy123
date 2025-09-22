@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meme Ice</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="continue_biometrics">Continue with biometrics</string>
+
+    <string name="channel_general">General</string>
+    <string name="channel_general_desc">Meme alerts</string>
+</resources>
+<string name="default_web_client_id">YOUR_WEB_CLIENT_ID_HERE</string>
